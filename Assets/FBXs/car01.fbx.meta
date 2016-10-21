@@ -25,6 +25,14 @@ ModelImporter:
     100034: tire 1
     100036: tire 2
     100038: tire 3
+    100040: group1
+    100042: left
+    100044: wheel_back_left
+    100046: wheel_back_right
+    100048: wheel_front_left
+    100050: wheel_front_right
+    100052: wheels_back
+    100054: wheels_front
     400000: axis
     400002: axis 1
     400004: axis 2
@@ -45,6 +53,14 @@ ModelImporter:
     400034: tire 1
     400036: tire 2
     400038: tire 3
+    400040: group1
+    400042: left
+    400044: wheel_back_left
+    400046: wheel_back_right
+    400048: wheel_front_left
+    400050: wheel_front_right
+    400052: wheels_back
+    400054: wheels_front
     2300000: axis
     2300002: axis 1
     2300004: axis 2
@@ -58,6 +74,10 @@ ModelImporter:
     2300020: tire 1
     2300022: tire 2
     2300024: tire 3
+    2300026: wheel_back_left
+    2300028: wheel_back_right
+    2300030: wheel_front_left
+    2300032: wheel_front_right
     3300000: axis
     3300002: axis 1
     3300004: axis 2
@@ -71,6 +91,10 @@ ModelImporter:
     3300020: tire 1
     3300022: tire 2
     3300024: tire 3
+    3300026: wheel_back_left
+    3300028: wheel_back_right
+    3300030: wheel_front_left
+    3300032: wheel_front_right
     4300000: body
     4300002: rim
     4300004: tire
@@ -84,6 +108,10 @@ ModelImporter:
     4300020: rim
     4300022: tire
     4300024: axis
+    4300026: wheel_front_right
+    4300028: wheel_front_left
+    4300030: wheel_back_left
+    4300032: wheel_back_right
     9500000: //RootNode
   materials:
     importMaterials: 1
