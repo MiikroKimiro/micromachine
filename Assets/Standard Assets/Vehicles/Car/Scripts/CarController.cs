@@ -167,7 +167,7 @@ namespace UnityStandardAssets.Vehicles.Car
             GearChanging();
 
             AddDownForce();
-            CheckForWheelSpin();
+            //CheckForWheelSpin();
             TractionControl();
         }
 
@@ -283,10 +283,10 @@ namespace UnityStandardAssets.Vehicles.Car
 
                     // avoiding all four tires screeching at the same time
                     // if they do it can lead to some strange audio artefacts
-                    if (!AnySkidSoundPlaying())
-                    {
-                        m_WheelEffects[i].PlayAudio();
-                    }
+                    //if (!AnySkidSoundPlaying())
+                    //{
+                    //    m_WheelEffects[i].PlayAudio();
+                    //}
                     continue;
                 }
 
