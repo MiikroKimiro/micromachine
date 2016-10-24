@@ -8,13 +8,6 @@ public class brakeLights : MonoBehaviour {
     public GameObject brakeLightLeft;
     public GameObject brakeGlassRight;
     public GameObject brakeGlassLeft;
-    
-    
-
-    // Use this for initialization
-    void Start () {
-	
-	}
 	
 	// Update is called once per frame
 	void Update () {
