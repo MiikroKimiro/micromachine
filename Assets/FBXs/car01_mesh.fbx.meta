@@ -33,6 +33,34 @@ ModelImporter:
     100050: wheel_front_right
     100052: wheels_back
     100054: wheels_front
+    100056: brakeLight_block
+    100058: brakeLight_block 1
+    100060: brakeLight_brake
+    100062: brakeLight_brake 1
+    100064: brakeLight_left
+    100066: brakeLight_right
+    100068: gasEscape_block
+    100070: gasEscape_block 1
+    100072: gasEscape_left
+    100074: gasEscape_right
+    100076: gasEscape_tube
+    100078: gasEscape_tube 1
+    100080: headlight_block
+    100082: headlight_block 1
+    100084: headlight_body
+    100086: headlight_body 1
+    100088: headlight_body 2
+    100090: headlight_body 3
+    100092: headlight_glass
+    100094: headlight_glass 1
+    100096: headlight_glass 2
+    100098: headlight_glass 3
+    100100: headlight_left
+    100102: headlight_left 1
+    100104: headlight_left 2
+    100106: headlight_right
+    100108: headlight_right 1
+    100110: headlight_right 2
     400000: axis
     400002: axis 1
     400004: axis 2
@@ -61,6 +89,34 @@ ModelImporter:
     400050: wheel_front_right
     400052: wheels_back
     400054: wheels_front
+    400056: brakeLight_block
+    400058: brakeLight_block 1
+    400060: brakeLight_brake
+    400062: brakeLight_brake 1
+    400064: brakeLight_left
+    400066: brakeLight_right
+    400068: gasEscape_block
+    400070: gasEscape_block 1
+    400072: gasEscape_left
+    400074: gasEscape_right
+    400076: gasEscape_tube
+    400078: gasEscape_tube 1
+    400080: headlight_block
+    400082: headlight_block 1
+    400084: headlight_body
+    400086: headlight_body 1
+    400088: headlight_body 2
+    400090: headlight_body 3
+    400092: headlight_glass
+    400094: headlight_glass 1
+    400096: headlight_glass 2
+    400098: headlight_glass 3
+    400100: headlight_left
+    400102: headlight_left 1
+    400104: headlight_left 2
+    400106: headlight_right
+    400108: headlight_right 1
+    400110: headlight_right 2
     2300000: axis
     2300002: axis 1
     2300004: axis 2
@@ -78,6 +134,24 @@ ModelImporter:
     2300028: wheel_back_right
     2300030: wheel_front_left
     2300032: wheel_front_right
+    2300034: brakeLight_block
+    2300036: brakeLight_block 1
+    2300038: brakeLight_brake
+    2300040: brakeLight_brake 1
+    2300042: gasEscape_block
+    2300044: gasEscape_block 1
+    2300046: gasEscape_tube
+    2300048: gasEscape_tube 1
+    2300050: headlight_block
+    2300052: headlight_block 1
+    2300054: headlight_body
+    2300056: headlight_body 1
+    2300058: headlight_body 2
+    2300060: headlight_body 3
+    2300062: headlight_glass
+    2300064: headlight_glass 1
+    2300066: headlight_glass 2
+    2300068: headlight_glass 3
     3300000: axis
     3300002: axis 1
     3300004: axis 2
@@ -95,6 +169,24 @@ ModelImporter:
     3300028: wheel_back_right
     3300030: wheel_front_left
     3300032: wheel_front_right
+    3300034: brakeLight_block
+    3300036: brakeLight_block 1
+    3300038: brakeLight_brake
+    3300040: brakeLight_brake 1
+    3300042: gasEscape_block
+    3300044: gasEscape_block 1
+    3300046: gasEscape_tube
+    3300048: gasEscape_tube 1
+    3300050: headlight_block
+    3300052: headlight_block 1
+    3300054: headlight_body
+    3300056: headlight_body 1
+    3300058: headlight_body 2
+    3300060: headlight_body 3
+    3300062: headlight_glass
+    3300064: headlight_glass 1
+    3300066: headlight_glass 2
+    3300068: headlight_glass 3
     4300000: body
     4300002: rim
     4300004: tire
@@ -112,6 +204,24 @@ ModelImporter:
     4300028: wheel_front_left
     4300030: wheel_back_left
     4300032: wheel_back_right
+    4300034: headlight_body
+    4300036: headlight_glass
+    4300038: headlight_body
+    4300040: headlight_glass
+    4300042: headlight_block
+    4300044: headlight_body
+    4300046: headlight_glass
+    4300048: headlight_body
+    4300050: headlight_glass
+    4300052: headlight_block
+    4300054: gasEscape_tube
+    4300056: gasEscape_block
+    4300058: gasEscape_tube
+    4300060: gasEscape_block
+    4300062: brakeLight_brake
+    4300064: brakeLight_block
+    4300066: brakeLight_brake
+    4300068: brakeLight_block
     9500000: //RootNode
   materials:
     importMaterials: 1
