@@ -10,25 +10,40 @@ ModelImporter:
     100004: pPlane2
     100006: floor
     100008: mountain
+    100010: floor_MeshPart0
+    100012: floor_MeshPart1
+    100014: floor_MeshPart2
     400000: //RootNode
     400002: pPlane1
     400004: pPlane2
     400006: floor
     400008: mountain
+    400010: floor_MeshPart0
+    400012: floor_MeshPart1
+    400014: floor_MeshPart2
     2300000: //RootNode
     2300002: pPlane1
     2300004: pPlane2
     2300006: floor
     2300008: mountain
+    2300010: floor_MeshPart0
+    2300012: floor_MeshPart1
+    2300014: floor_MeshPart2
     3300000: //RootNode
     3300002: pPlane1
     3300004: pPlane2
     3300006: floor
     3300008: mountain
+    3300010: floor_MeshPart0
+    3300012: floor_MeshPart1
+    3300014: floor_MeshPart2
     4300000: pPlane1
     4300002: pPlane2
     4300004: floor
     4300006: mountain
+    4300008: floor_MeshPart0
+    4300010: floor_MeshPart1
+    4300012: floor_MeshPart2
     9500000: //RootNode
   materials:
     importMaterials: 1
